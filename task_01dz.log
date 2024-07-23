@@ -1,0 +1,4 @@
+ERROR    - 2024-07-23 15:33:18,877. В модуле "task_01dz" в строке 134 функция "parse()" в 1721741598.8779454 секунд записала сообщение: Entered wrong age 100 via terminal
+INFO     - 2024-07-23 15:33:18,877. В модуле "task_01dz" в строке 114 функция "__init__()" в 1721741598.8779454 секунд записала сообщение: Employee ('Bob Johnson Brown', 99) with id 234567 created.
+INFO     - 2024-07-23 15:33:18,877. В модуле "task_01dz" в строке 119 функция "get_level()" в 1721741598.8779454 секунд записала сообщение: Employee ('Bob Johnson Brown', 99) with 234567 received 6 level.
+CRITICAL - 2024-07-23 15:33:36,158. В модуле "task_01dz" в строке 070 функция "__str__()" в 1721741616.1582015 секунд записала сообщение: Invalid emp_id: 1234567. Id should be a 6-digit positive integer between 100000 and 999999.
